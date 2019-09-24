@@ -1,1 +1,3 @@
 try-convert : cmd for converting .net framework to core.
+visual studio 2019:
+  multi char editing
